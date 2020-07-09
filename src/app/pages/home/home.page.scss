@@ -1,0 +1,26 @@
+.bb{
+    border-bottom: 1px solid #DDDDDD;
+}
+ion-label{
+    font-size: small;
+}
+.name{
+    font-size: medium;
+}
+
+.detail{
+    h1{
+        margin: 0;
+        font-size: xx-large;
+        color:var(--ion-color-danger);
+    }
+    .date{
+        ion-label{
+        font-size: x-large;
+
+        }
+    }
+}
+p{    
+    font-size: small
+}

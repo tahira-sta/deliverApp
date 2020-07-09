@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="174" height="174" viewBox="0 0 174 174">
+  <defs>
+    <clipPath id="clip-path">
+      <ellipse id="Ellipse_14" data-name="Ellipse 14" cx="87" cy="86.5" rx="87" ry="86.5" transform="translate(0 0.316)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Group_284" data-name="Group 284" transform="translate(-3819 -998)">
+    <circle id="Ellipse_15" data-name="Ellipse 15" cx="87" cy="87" r="87" transform="translate(3819 998)" fill="#f9f9f9"/>
+    <g id="Mask_Group_10" data-name="Mask Group 10" transform="translate(3819 997.684)" clip-path="url(#clip-path)">
+      <g id="Group_281" data-name="Group 281" transform="translate(-20.54 69.372)">
+        <path id="Path_10483" data-name="Path 10483" d="M15.246,17.947c30-31.6,38,10.8,59.6,13.6s29.6-54.8,67.2-35.6,61.2,51.2,61.6,62.8-12.8,58.8-84,64.8-114.4-.4-118-32S15.246,17.947,15.246,17.947Z" fill="#dce1e2"/>
+        <rect id="Rectangle_224" data-name="Rectangle 224" width="208" height="63" transform="translate(0.54 44.944)" fill="#ccc"/>
+        <path id="Path_10482" data-name="Path 10482" d="M0,0H214.137" transform="translate(0 45.407)" fill="none" stroke="#fdfdfd" stroke-width="4" stroke-dasharray="30 36"/>
+        <path id="Icon_awesome-truck-moving" data-name="Icon awesome-truck-moving" d="M84.934,30.315l-8-8a8.752,8.752,0,0,0-6.193-2.556H65.617V6.625A4.37,4.37,0,0,0,61.243,2.25H4.374A4.37,4.37,0,0,0,0,6.625V52.557a10.909,10.909,0,0,0,19.685,6.507A10.909,10.909,0,0,0,39.37,52.557a11.522,11.522,0,0,0-.219-2.187h22.31a10.506,10.506,0,0,0-.219,2.187,10.936,10.936,0,0,0,21.873,0,11.522,11.522,0,0,0-.219-2.187H85.3a2.194,2.194,0,0,0,2.187-2.187V36.494A8.72,8.72,0,0,0,84.934,30.315Zm-74,26.616a4.374,4.374,0,1,1,4.374-4.374A4.387,4.387,0,0,1,10.936,56.931Zm17.5,0a4.374,4.374,0,1,1,4.375-4.374A4.387,4.387,0,0,1,28.434,56.931ZM65.617,26.31h5.126a2.171,2.171,0,0,1,1.545.643l5.919,5.919H65.617Zm6.562,30.621a4.374,4.374,0,1,1,4.375-4.374A4.387,4.387,0,0,1,72.179,56.931Z" transform="translate(59.476 -4.955)" fill="#245776"/>
+      </g>
+    </g>
+    <path id="Icon_ionic-md-pin" data-name="Icon ionic-md-pin" d="M19.125,2.25A12.289,12.289,0,0,0,6.75,14.378c0,9.1,12.375,22.522,12.375,22.522S31.5,23.473,31.5,14.378A12.289,12.289,0,0,0,19.125,2.25Zm0,16.459a4.332,4.332,0,1,1,4.42-4.331A4.334,4.334,0,0,1,19.125,18.709Z" transform="translate(3870 1005.752)" fill="#f74e23"/>
+  </g>
+</svg>

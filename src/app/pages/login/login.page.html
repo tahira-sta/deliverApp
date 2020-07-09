@@ -1,0 +1,28 @@
+<ion-content fullscreen class="bg">
+  <ion-row class="ion-text-center">
+    <img class="logo" src="../../../assets/img/logo.png">
+  </ion-row>
+
+  <ion-list>
+    <ion-item mode="ios">
+      <ion-label class="ion-text-center" position="floating" mode="ios">Identifiant</ion-label>
+      <ion-input required type="email" mode="ios"></ion-input>
+      <img class="ion-float-end" src="../../../assets/icon/svg/user.svg" slot="end">
+    </ion-item>
+    <ion-item mode="ios">
+      <ion-label class="ion-text-center" position="floating" mode="ios">Mot de passe</ion-label>
+      <ion-input required type="Password" mode="ios"></ion-input>
+      <img src="../../../assets/icon/svg/key.svg" slot="end">
+      <!-- <ion-icon name="key" slot="end"></ion-icon> -->
+    </ion-item>
+  </ion-list>
+
+  <ion-row class="ion-text-center">
+    <ion-col size="4"></ion-col>
+    <ion-col size="4">
+      <ion-button type="submit" shape="round"  (click)="myLoads()"><img src="../../../assets/icon/svg/arrow-right.svg"></ion-button>
+    </ion-col>
+    <ion-col size="4"></ion-col>
+  </ion-row>
+
+</ion-content>

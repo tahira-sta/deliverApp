@@ -1,0 +1,29 @@
+.logo {
+    width: 236px;
+    margin: 18% 21% 7%;
+}
+
+ion-list{
+    margin-top: 40%;
+    padding: 0 10%;
+}
+ion-list,
+ion-item {
+    background: transparent !important;
+    --background: transparent !important;
+    --background-color: transparent !important;
+    color: white !important;
+    img{
+        margin-top: 13%;
+    }
+}
+
+ion-button{
+    border-radius: 50%;
+    border: 1px solid white;
+    background: transparent !important;
+    --background: transparent !important;
+    --background-color: transparent !important;
+    height: 68px;
+    margin-top: 26px;
+}
